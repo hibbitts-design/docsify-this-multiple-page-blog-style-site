@@ -32,5 +32,5 @@ Docsify-This Examples
 ---
 
 [Docsify-This Blog-Style Template](https://github.com/hibbitts-design/demo-docsify-this-open-blog-site/blob/main/home.md), displayed by Docsify-This as a:  
-* [Website](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md)
-* [Website with 'Edit this Page' links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/demo-docsify-this-open-blog-site/blob/main/home.md)
+* [Standalone Web Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md)
+* [Standalone Web Site and 'Edit this Page' links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/demo-docsify-this-open-blog-site/blob/main/home.md)
