@@ -1,4 +1,4 @@
-![City at night](london-at-night/unsplash-london-night.jpg ":class=header-tall-image-full-width :no-zoom")
+![City at night](london-at-night/unsplash-london-night.jpg ":class=header-tall-image-full-width-header-overlay :no-zoom")
 
 [←Home](home.md)
 
