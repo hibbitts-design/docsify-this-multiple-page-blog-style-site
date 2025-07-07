@@ -1,8 +1,8 @@
 ![Modern building](classic-modern-architecture/unsplash-luca-bravo.jpg ":class=header-tall-image-full-width-header-overlay :no-zoom")
 
-[←Home](home.md)
-
 # Classic Modern Architecture
+
+[←Home](home.md)
 
 <small>27th Jun 2017</small>
 
