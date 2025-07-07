@@ -31,6 +31,6 @@ To edit a file in GitHub, tap the **Pencil icon** (Edit this file) in the upper-
 Docsify-This Examples
 ---
 
-[Docsify-This Blog-Style Template](https://github.com/hibbitts-design/demo-docsify-this-open-blog-site/blob/main/home.md), displayed by Docsify-This as a:  
+[Docsify-This Blog-Style Template](https://github.com/hibbitts-design/demo-docsify-this-open-blog-site), displayed by Docsify-This as a:  
 * [Standalone Web Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md)
 * [Standalone Web Site and 'Edit this Page' links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/demo-docsify-this-open-blog-site/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/demo-docsify-this-open-blog-site/blob/main/home.md)
