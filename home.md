@@ -3,7 +3,7 @@
 # My Open Blog
 ## Create, Share and Collaborate
 
-Welcome to my open blog where I share thoughts on design, technology, and creativity. This space is built for collaboration - feel free to suggest edits or contribute your own perspectives.  
+Welcome to my open blog where I share thoughts on design, technology, and creativity. The source Markdown content used in this blog-style site is available for viewing and reuse.
 
 <div class="card-list">
 
