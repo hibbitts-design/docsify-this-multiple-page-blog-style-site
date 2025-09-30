@@ -1,49 +1,52 @@
 ![Mountain](images/mountain.jpg ":class=header-tall-image-full-width-headings-overlay :no-zoom")
 
 # My Open Blog
-
 ## Create, Share and Collaborate
 
-Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius felicia; ore luce solum nec omnibus potest; ferrugine domoque templa falcato et digitis curre. Quae sanguine et colo unam sagitta tales diruerent, permulcens errore. Saepe caute quid: res: praemia, velle auras vires Ascalaphus, libro infelix antiquo? Fronde in quid ab modo, me postquam marmora debueram quibus dempsisse maiestas avis Phoebus et ecce potes trepidum.
+Welcome to my open blog where I share thoughts on design, technology, and creativity. This space is built for collaboration - feel free to suggest edits or contribute your own perspectives.  
 
 <div class="card-list">
-  <div class="card">
 
-  [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur.md)
+<div class="card">
 
-  ## [Focus and Blur](focus-and-blur.md)
-  
-  <small>21st Jun 2017 </small>
+[![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur.md)
 
-  Blog post preview text goes here with more details about the content.  
+## [Focus and Blur](focus-and-blur.md)
 
-  [Read More](focus-and-blur.md ":class=navpill")
+<small>21st Jun 2017</small>
 
-  </div>
-  <div class="card">
+Exploring the art of selective focus in photography and design, and how blur can create compelling visual narratives.  
 
-  [![Blog Post Image](classic-modern-architecture/unsplash-luca-bravo.jpg)](classic-modern-architecture.md)
+[Read More](focus-and-blur.md ":class=navpill")
 
-  ## [Classic Modern Architecture](classic-modern-architecture.md)
+</div>
 
-  <small>27th Jun 2017 </small>
+<div class="card">
 
-  Another blog post preview with different content.  
+[![Blog Post Image](classic-modern-architecture/unsplash-luca-bravo.jpg)](classic-modern-architecture.md)
 
-  [Read More](classic-modern-architecture.md ":class=navpill")
-    
-  </div>
-    <div class="card">
+## [Classic Modern Architecture](classic-modern-architecture.md)
 
-  [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night.md)
+<small>27th Jun 2017</small>
 
-  ## [London at Night](london-at-night.md)
+A journey through iconic buildings that bridge traditional craftsmanship with contemporary innovation.  
 
-  <small>7th Jun 2017</small>
+[Read More](classic-modern-architecture.md ":class=navpill")
 
-  Another blog post preview with different content.  
+</div>
 
-  [Read More](london-at-night.md ":class=navpill")
-    
-  </div>
+<div class="card">
+
+[![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night.md)
+
+## [London at Night](london-at-night.md)
+
+<small>7th Jun 2017</small>
+
+Capturing the energy and mystery of London after dark through photography and personal reflection.  
+
+[Read More](london-at-night.md ":class=navpill")
+
+</div>
+
 </div>
