@@ -15,6 +15,7 @@ Welcome to my open blog where I share thoughts on design, technology, and creati
 <small>21st Jun 2017</small>
 Exploring the art of selective focus in photography and design, and how blur can create compelling visual narratives.  
 [Read More](focus-and-blur.md ":class=navpill")
+
 </div>
 
 <div class="card">
@@ -25,6 +26,7 @@ Exploring the art of selective focus in photography and design, and how blur can
 <small>27th Jun 2017</small>
 A journey through iconic buildings that bridge traditional craftsmanship with contemporary innovation.  
 [Read More](classic-modern-architecture.md ":class=navpill")
+
 </div>
 
 <div class="card">
@@ -35,6 +37,7 @@ A journey through iconic buildings that bridge traditional craftsmanship with co
 <small>7th Jun 2017</small>
 Capturing the energy and mystery of London after dark through photography and personal reflection.  
 [Read More](london-at-night.md ":class=navpill")
+
 </div>
 
 </div>
