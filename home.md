@@ -8,6 +8,7 @@ Welcome to my open blog where I share thoughts on design, technology, and creati
 <div class="card-list">
 
 <div class="card">
+  
 [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur.md)
 
 ## [Focus and Blur](focus-and-blur.md)
@@ -17,6 +18,7 @@ Exploring the art of selective focus in photography and design, and how blur can
 </div>
 
 <div class="card">
+  
 [![Blog Post Image](classic-modern-architecture/unsplash-luca-bravo.jpg)](classic-modern-architecture.md)
 
 ## [Classic Modern Architecture](classic-modern-architecture.md)
@@ -26,6 +28,7 @@ A journey through iconic buildings that bridge traditional craftsmanship with co
 </div>
 
 <div class="card">
+  
 [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night.md)
 
 ## [London at Night](london-at-night.md)
